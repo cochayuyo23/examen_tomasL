@@ -42,7 +42,7 @@ nav ul {
     margin: 0;
     padding: 10px;
     display: flex;
-    justify-content: space-around;
+    justify-content: space-evenly;
 }
 
 nav li {
